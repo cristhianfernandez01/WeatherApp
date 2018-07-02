@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="default_unknown_city">No definido</string>
+    <string name="default_temp">-- ºC</string>
+    <string name="default_summary">No hay datos</string>
+    <string name="humidity_title">Humedad</string>
+    <string name="rain_title">Prob. Lluvia</string>
+    <string name="rationale_try">Si</string>
+    <string name="rationale_no_thanks">No Gracias</string>
+    <string name="rationale_get_location_title">Necesitamos acceder a su ubicacion actual</string>
+    <string name="rationale_get_location_subtitle">Podra ver informacion del clima permitiendo consultar la misma.</string>
+    <string name="location_permmission_denied">No podemos acceder a su ubicacion actual</string>
+    <string name="location_no_determine">Lo sentimos, no podemos acceder a su ubicacion actual</string>
+    <string name="location_city_format">%s, %s</string>
+    <string name="loading">Cargando</string>
+    <string name="progress_bar_title">Obteniendo informacion</string>
+</resources>
